@@ -8,6 +8,10 @@ Semanticly adjusted CSS Stylesheet
 Connected Tag reference for Menu item: "Search Engine Optimization" to specified container.
 Adjusted Font Size
 
+Fixes:
+- Corrected some elements in index.HTML
+- Fixed some styling in style.css
+
 
 ## Installation
 
@@ -16,7 +20,7 @@ N/A
 ## Usage
 
 Learned to organize code and make sure code was Semantically correct. 
-Attempted to match the appearance of website to image image in Module 01 Challenge
+Attempted to match the appearance of website to image in Module 01 Challenge.
 
 ## Credits
 
