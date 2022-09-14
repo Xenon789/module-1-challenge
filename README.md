@@ -16,7 +16,7 @@ Fixes:
 ## Installation
 
 SSH: `git clone git@github.com:Xenon789/module-1-challenge.git`
-HTTPS: 
+\nHTTPS: `https://github.com/Xenon789/module-1-challenge.git`
 
 ## Usage
 
