@@ -19,6 +19,8 @@ Fixes:
 
 ## Usage
 
+Page Deployed: https://xenon789.github.io/module-1-challenge/
+
 Learned to organize code and make sure code was Semantically correct. 
 Attempted to match the appearance of website to image in Module 01 Challenge.
 
