@@ -15,7 +15,7 @@ Fixes:
 
 ## Installation
 
-N/A
+`git clone `
 
 ## Usage
 
