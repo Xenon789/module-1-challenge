@@ -8,7 +8,7 @@ Semanticly adjusted CSS Stylesheet
 Connected Tag reference for Menu item: "Search Engine Optimization" to specified container.
 Adjusted Font Size
 
-[![Horiseon Webiste](01-html-css-git-homework-demo.png "Horiseon Website")
+[![Horiseon Webiste](01-html-css-git-homework-demo.png "Horiseon Website")]
 
 Fixes:
 - Corrected some elements in index.HTML
