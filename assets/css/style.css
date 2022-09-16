@@ -25,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.navbar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.navbar ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.navbar ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -62,73 +62,19 @@ p {
     background-position: center;
 }
 
-.content {
+/* Main */
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-
-
-.content h2 {
+main h2 {
     font-size: 50px;
 }
 
-/*  Services/Plans Containers */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*  Services/Plans: Image and Text Styling  */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 40px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 40px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 40px;
-}
+/* Floats */
 
 .float-left {
     float: left;
@@ -138,6 +84,25 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/*  Services Containers */
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 40px;
 }
 
 /*  Benefits  */
@@ -152,53 +117,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Footer */
 
 .footer {
     padding: 30px;
